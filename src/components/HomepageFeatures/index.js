@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/img1.jpg').default,
+    Svg: require('@site/static/img/img1.svg').default,
     description: (
       <>
         Provant a fer una pagina en docusaurus en 1r de DAW
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Focus on What Matters',
-    Svg: require('@site/static/img/img2.jpg').default,
+    Svg: require('@site/static/img/img2.svg').default,
     description: (
       <>
         En la asignastura de projecte
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Powered by React',
-    Svg: require('@site/static/img/img3.jpg').default,
+    Svg: require('@site/static/img/img3.svg').default,
     description: (
       <>
         Provant com funciona
