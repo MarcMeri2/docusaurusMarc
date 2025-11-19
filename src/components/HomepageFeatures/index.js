@@ -4,25 +4,23 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Provant a fer una pagina en docusaurus en 1r de DAW',
     Svg: require('@site/static/img/img1.svg').default,
     description: (
-      <>
-        Provant a fer una pagina en docusaurus en 1r de DAW
-      </>
+      <>En el IES Lluís Simarro</>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'En la asignastura de projecte',
     Svg: require('@site/static/img/img2.svg').default,
     description: (
       <>
-        En la asignastura de projecte
+        Fent proves en docusaurus
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Muntant la pagina a github',
     Svg: require('@site/static/img/img3.svg').default,
     description: (
       <>
