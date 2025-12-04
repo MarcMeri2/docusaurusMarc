@@ -101,6 +101,19 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+
+          {
+            to: 'benvingudamarc',
+            label: 'Benvinguda',
+            position: 'left',
+          },
+
+          {
+            to: 'desplegamentsmarc',
+            label: 'Desplegaments',
+            position: 'left',
+          },
+
         ],
       },
       footer: {
