@@ -14,6 +14,6 @@ S’ha utilitzat un **repositori** de **Github** per desplegar en *tres platafor
 
 | Github | Vercel | Netlify |
 |--------|--------|---------|
-| ![Logo Github](/img/github.png) | ![Logo Vercel](/img/vercel.png) | ![Logo Netlify](/img/netlify.png) |
+| ![Logo Github](./img/github.png) | ![Logo Vercel](./img/vercel.png) | ![Logo Netlify](./img/netlify.png) |
 
 You don't need React to write simple standalone pages.
